@@ -1,3 +1,5 @@
+### Added MySQL DateTime format.
+
 # fecha [![Build Status](https://travis-ci.org/taylorhakes/fecha.svg?branch=master)](https://travis-ci.org/taylorhakes/fecha)
 
 Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
